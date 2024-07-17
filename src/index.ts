@@ -14,7 +14,7 @@ const users: IUser[] = [
   },
   {
     id: 2,
-    name: "Budi",
+    name: "Angga",
   },
 ];
 
