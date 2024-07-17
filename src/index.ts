@@ -10,7 +10,7 @@ interface IUser {
 const users: IUser[] = [
   {
     id: 1,
-    name: "Bagus",
+    name: "Dwi",
   },
   {
     id: 2,
